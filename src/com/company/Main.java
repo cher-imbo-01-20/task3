@@ -7,5 +7,8 @@ public class Main {
     System.out.println("\n");
     BookTest my_book = new BookTest();
     my_book.test();
+    System.out.println("\n");
+    CircleTest my_circle = new CircleTest();
+    my_circle.test();
     }
 }
